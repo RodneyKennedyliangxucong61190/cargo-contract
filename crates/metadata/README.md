@@ -5,3 +5,5 @@ Defines types for the extended metadata of smart contracts targeting [substrate]
 Currently part of [`cargo-contract`](https://github.com/use-ink/cargo-contract), the build tool for smart
  contracts written in [ink!](https://github.com/use-ink/ink).
 
+
+<!-- Auto-update: 2025-10-05T11:28:26.623419 -->
